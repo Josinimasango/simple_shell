@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point of the program
+ * main - a code that passes the Betty checks
  *
- * Return: 0 on success
+ * Return: 0 (success)
  */
 int main(void)
 {
